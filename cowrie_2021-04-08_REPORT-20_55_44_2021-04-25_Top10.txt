@@ -1,0 +1,146 @@
+
+
+		HONEYPOT Top 10 IP ANALYSIS
+
+Total unique attacker IPS: 302
+Top 10 attackers by IP:
+	IP		Connections	Country	City	5.182.39.61    	22621					RU	Moscow
+
+As #: 44676		VMAGE-AS
+----------------
+	Most common Eventids	cowrie.command.input     	30365
+	cowrie.session.params    	28345
+	cowrie.log.closed        	28310
+	cowrie.direct-tcpip.request	25449
+	cowrie.direct-tcpip.data 	23965
+	cowrie.session.connect   	15694
+	cowrie.session.closed    	15686
+	cowrie.client.version    	15556
+	cowrie.client.kex        	15482
+	cowrie.login.failed      	9509
+	5.182.39.62    	19432					RU	Moscow
+
+As #: 200019		ALEXHOST
+----------------
+	Most common Eventids	cowrie.command.input     	30365
+	cowrie.session.params    	28345
+	cowrie.log.closed        	28310
+	cowrie.direct-tcpip.request	25449
+	cowrie.direct-tcpip.data 	23965
+	cowrie.session.connect   	15694
+	cowrie.session.closed    	15686
+	cowrie.client.version    	15556
+	cowrie.client.kex        	15482
+	cowrie.login.failed      	9509
+	45.227.255.163 	9969					NL	Amsterdam
+
+As #: 43350		NFORCE
+----------------
+	Most common Eventids	cowrie.command.input     	30365
+	cowrie.session.params    	28345
+	cowrie.log.closed        	28310
+	cowrie.direct-tcpip.request	25449
+	cowrie.direct-tcpip.data 	23965
+	cowrie.session.connect   	15694
+	cowrie.session.closed    	15686
+	cowrie.client.version    	15556
+	cowrie.client.kex        	15482
+	cowrie.login.failed      	9509
+	5.188.86.174   	4884					NL	Amsterdam
+
+As #: 49453		GLOBALLAYER
+----------------
+	Most common Eventids	cowrie.command.input     	30365
+	cowrie.session.params    	28345
+	cowrie.log.closed        	28310
+	cowrie.direct-tcpip.request	25449
+	cowrie.direct-tcpip.data 	23965
+	cowrie.session.connect   	15694
+	cowrie.session.closed    	15686
+	cowrie.client.version    	15556
+	cowrie.client.kex        	15482
+	cowrie.login.failed      	9509
+	45.227.255.205 	3528					NL	Amsterdam
+
+As #: 43350		NFORCE
+----------------
+	Most common Eventids	cowrie.command.input     	30365
+	cowrie.session.params    	28345
+	cowrie.log.closed        	28310
+	cowrie.direct-tcpip.request	25449
+	cowrie.direct-tcpip.data 	23965
+	cowrie.session.connect   	15694
+	cowrie.session.closed    	15686
+	cowrie.client.version    	15556
+	cowrie.client.kex        	15482
+	cowrie.login.failed      	9509
+	93.115.1.195   	2011					RO	Bucharest
+
+As #: 49410		BIZTELECOM
+----------------
+	Most common Eventids	cowrie.command.input     	30365
+	cowrie.session.params    	28345
+	cowrie.log.closed        	28310
+	cowrie.direct-tcpip.request	25449
+	cowrie.direct-tcpip.data 	23965
+	cowrie.session.connect   	15694
+	cowrie.session.closed    	15686
+	cowrie.client.version    	15556
+	cowrie.client.kex        	15482
+	cowrie.login.failed      	9509
+	121.5.27.182   	1775					CN	Guangzhou
+
+As #: 45090		CNNIC-TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited
+----------------
+	Most common Eventids	cowrie.command.input     	30365
+	cowrie.session.params    	28345
+	cowrie.log.closed        	28310
+	cowrie.direct-tcpip.request	25449
+	cowrie.direct-tcpip.data 	23965
+	cowrie.session.connect   	15694
+	cowrie.session.closed    	15686
+	cowrie.client.version    	15556
+	cowrie.client.kex        	15482
+	cowrie.login.failed      	9509
+	106.53.96.64   	1774					CN	Guangzhou
+
+As #: 45090		CNNIC-TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited
+----------------
+	Most common Eventids	cowrie.command.input     	30365
+	cowrie.session.params    	28345
+	cowrie.log.closed        	28310
+	cowrie.direct-tcpip.request	25449
+	cowrie.direct-tcpip.data 	23965
+	cowrie.session.connect   	15694
+	cowrie.session.closed    	15686
+	cowrie.client.version    	15556
+	cowrie.client.kex        	15482
+	cowrie.login.failed      	9509
+	119.45.187.6   	1733					CN	Guangzhou
+
+As #: 45090		CNNIC-TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited
+----------------
+	Most common Eventids	cowrie.command.input     	30365
+	cowrie.session.params    	28345
+	cowrie.log.closed        	28310
+	cowrie.direct-tcpip.request	25449
+	cowrie.direct-tcpip.data 	23965
+	cowrie.session.connect   	15694
+	cowrie.session.closed    	15686
+	cowrie.client.version    	15556
+	cowrie.client.kex        	15482
+	cowrie.login.failed      	9509
+	27.111.44.196  	1726					ID	Jakarta
+
+As #: 24532		INET-AS-ID PT. Inet Global Indo
+----------------
+	Most common Eventids	cowrie.command.input     	30365
+	cowrie.session.params    	28345
+	cowrie.log.closed        	28310
+	cowrie.direct-tcpip.request	25449
+	cowrie.direct-tcpip.data 	23965
+	cowrie.session.connect   	15694
+	cowrie.session.closed    	15686
+	cowrie.client.version    	15556
+	cowrie.client.kex        	15482
+	cowrie.login.failed      	9509
